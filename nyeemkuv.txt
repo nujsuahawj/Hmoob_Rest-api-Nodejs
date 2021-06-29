@@ -1,0 +1,5 @@
+#cov packac yuav tau install yog muaj lis hauv qab no:
+mysql, express, body-parser, nodemon;
+#tom hauv paus ces yuav tsum muaj lis hauv qab no nawb:
+id, name, author, 	created_at, updated_at;
+#yog leej twg yuav siv posmas los test los yeej tau ho yog leej twg yuav siv vscode los tes los yeej tau ib yam
